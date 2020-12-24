@@ -1,0 +1,24 @@
+{
+"firstrequest": {
+	"firstname": "Frank",
+	"lastname": "Lampard",
+	"totalprice": 2000,
+	"depositpaid": true,
+	"bookingdates": {
+		"checkin": "2019-01-01",
+		"checkout": "2020-01-01"
+	},
+	"additionalneeds": "Dinner"
+},
+"secondrequest": {
+	"firstname": "John",
+	"lastname": "Terry",
+	"totalprice": 5000,
+	"depositpaid": false,
+	"bookingdates": {
+		"checkin": "2020-01-01",
+		"checkout": "2020-12-31"
+	},
+	"additionalneeds": "Lunch"
+}
+}

@@ -1,0 +1,3 @@
+firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds
+Diego,Maradona,10000,TRUE,2020-10-10,2020-12-12,Dinner
+Edson,Pele,12000,FALSE,2020-12-12,2021-02-02,Breakfast
